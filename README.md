@@ -244,4 +244,4 @@ This repository serves as the official landing page for ISOpen. The software is 
 **Get the most recent version of ISOpen today!**
 
 ---
-**Last updated:** 2026-10-30 05:05:59 UTC
+**Last updated:** 2026-10-30 12:27:57 UTC
